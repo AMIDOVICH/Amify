@@ -283,6 +283,7 @@ h1{
    -webkit-background-clip: text;
    color: transparent;
    animation: shine 10s linear infinite; 
+   text-align: center;
 }
 
 @keyframes shine{
